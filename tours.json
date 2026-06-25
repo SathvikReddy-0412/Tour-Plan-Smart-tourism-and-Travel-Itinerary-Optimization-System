@@ -1,0 +1,22 @@
+[
+  {
+    "tourId": 101,
+    "tourName": "Simulated Cross-Country Explorer",
+    "date": "2026-06-25",
+    "route": "Delhi -> Agra",
+    "distance": 230.0,
+    "budget": 5000.0,
+    "duration": 13.333333333333336,
+    "cost": 5470.0,
+    "rating": 4.775,
+    "itinerary": [
+      "08:00 AM - Depart from Delhi via Train (Travel distance: 230.0 km, duration: 3.8 hrs)",
+      "12:00 PM - Visit completed at Delhi (Duration: 4.0 hrs)",
+      "03:50 PM - Arrive at Agra",
+      "03:50 PM - Visit attraction: Jaipur (Entry cost: Rs. 100.00, Duration: 3.5 hrs)",
+      "07:20 PM - Visit attraction: Amritsar (Entry cost: Rs. 0.00, Duration: 2.0 hrs)",
+      "09:20 PM - Check-in at selected hotel: Green Valley Resort (Price: Rs. 4500.00/night)",
+      "09:20 PM - Reach final destination and check-in: Agra"
+    ]
+  }
+]
